@@ -8,9 +8,9 @@ This is a basic iOS app created by following [https://www.inflearn.com/ja/course
 
 <p align="center">
   <img src="./SampleImage/Todo_1.png" width="220" />
-  <img src="./SimpleImage/Todo_2.png" width="220" />
-  <img src="./SimpleImage/Todo_3.png" width="220" />
-  <img src="./SimpleImage/Todo_4.png" width="220" />
+  <img src="./SampleImage/Todo_2.png" width="220" />
+  <img src="./SampleImage/Todo_3.png" width="220" />
+  <img src="./SampleImage/Todo_4.png" width="220" />
 </p>
 
 
